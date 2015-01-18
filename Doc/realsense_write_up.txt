@@ -1,0 +1,23 @@
+
+Application Name
+SimuSurgeon
+
+
+Application Overview
+
+SimuSurgeon uses Intel Realsesnse technology to help you learn about medical procedures hands on! Run step by step using your hands through procedures for fun, as a patient to learn about what operation you will be exposed to, or as a medical student or doctor. Studies have shown cancer patients have better outcomes when they are more engaged in their treatment using games, so SimuSurgeon is good for both patients and medical professionals. Get engaged and learn with your hands, not mousing around.
+
+
+How will you leverage RealSense SDK?
+
+SimuSurgeon will use the Intel RealSense camera to overlay a silhouette of the user's hands on the screen. The user can move their hands left, right, up, down, in and out to position them properly for performing each step of the surgery. Gesture detection can be used to represent surgical steps like tying a knot with an open hand gesture, or moving a scalpel with a closed hand gesture dragged in a line across the screen.
+
+
+Upload*
+SimuSurgeon_screen_mockups.png
+
+
+
+Resources
+http://www.uni-magdeburg.de/ifme/l-numerik/quellen/Paper-COMEC-c3.10.pdf
+https://openclipart.org/image/2400px/svg_to_png/326/johnny_automatic_gloved_hand_with_scalpel.png
